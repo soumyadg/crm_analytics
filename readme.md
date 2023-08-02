@@ -1,6 +1,6 @@
 # 💼 CRM Analytics with RFM Analysis 💼
 
-![Customer Segmentation](segmentation.gif)
+![](segmentation.gif)
 
 ## 📜 Introduction 📜
 This repository provides a sizzling hot 🔥 CRM analytics solution using the 🔝 RFM (Recency, Frequency, Monetary) analysis technique. CRM Analytics is an essential practice for businesses to gain insights into customer behavior, identify valuable customer segments, and tailor marketing strategies accordingly. The RFM analysis approach allows us to segment customers based on their transaction history, making it easier to target specific customer groups with personalized marketing efforts.
