@@ -41,10 +41,9 @@ Before running the CRM analytics with RFM analysis code, you need to have the fo
 Follow these steps to perform the CRM analytics with RFM analysis:
 
 1. Clone this repository to your local machine using `git clone https://github.com/your_username/crm-analytics.git`.
-2. Install the required Python packages using `pip install -r requirements.txt`.
-3. Place your cleaned and formatted customer dataset as `customer_data.csv` in the root directory of the project.
-4. Open the Jupyter Notebook or JupyterLab and navigate to the project folder.
-5. Run the Jupyter Notebook `RFM_Analysis.ipynb` and follow the instructions provided to execute the RFM analysis.
+2. Place your cleaned and formatted customer dataset as `customer_data.csv` in the root directory of the project.
+3. Open the Jupyter Notebook or JupyterLab and navigate to the project folder.
+4. Run the Jupyter Notebook `RFM.ipynb` and follow the instructions provided to execute the RFM analysis.
 
 ## 📈 Results 📈
 Upon running the RFM analysis on your customer dataset, you will obtain valuable insights, including:
