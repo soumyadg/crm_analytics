@@ -61,6 +61,8 @@ Contributions to this project are highly appreciated! If you find any bugs, have
 ## 📄 License 📄
 This project is licensed under the [MIT License](LICENSE).
 
+
+![](How-to-Use-Micro-Segmentation.png)
 ---
 
 We hope this repository proves to be smoking hot 🔥 in analyzing your customer data with RFM analysis. If you have any questions or need further assistance, please feel free to contact us.
