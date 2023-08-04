@@ -55,6 +55,9 @@ Upon running the RFM analysis on your customer dataset, you will obtain valuable
 
 These insights will enable you to formulate targeted marketing strategies, improve customer retention, and maximize the return on marketing efforts.
 
+![](audience-segmentation.gif)
+
+
 ## 👥 Contributing 👥
 Contributions to this project are highly appreciated! If you find any bugs, have suggestions for improvements, or want to add new features, feel free to open an issue or submit a pull request. Let's work together to enhance the CRM analytics solution.
 
