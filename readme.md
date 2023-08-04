@@ -35,7 +35,7 @@ Before running the CRM analytics with RFM analysis code, you need to have the fo
 
 - **Python 3.9:** Make sure you have Python 3.9 installed on your machine to execute the analysis code.
 - **Jupyter Notebook or JupyterLab:** You can use either Jupyter Notebook or JupyterLab to run the analysis code interactively.
-- **Required Python Packages:** Install the required Python packages by running `pip install -r requirements.txt` in your command-line terminal.
+
 
 ## 🚀 Usage 🚀
 Follow these steps to perform the CRM analytics with RFM analysis:
