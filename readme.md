@@ -19,21 +19,21 @@ By analyzing RFM metrics, we can divide customers into distinct segments, such a
 ## 📊 Dataset 📊
 The dataset used for this analysis is assumed to be in a CSV format and should contain the following columns:
 
-- `invoice_no`: A unique identifier for each transaction.
-- `stock_code`: A unique code for each stock item.
-- `description`: A description of the stock item.
-- `quantity`: The number of items purchased in each transaction.
-- `invoice_date`: The date of the transaction.
-- `unit_price`: The price of each item.
-- `customer_id`: A unique identifier for each customer.
-- `country`: The country of the customer.
+- `Invoice`: A unique identifier for each transaction.
+- `StockCode`: A unique code for each stock item.
+- `Description`: A description of the stock item.
+- `Quantity`: The number of items purchased in each transaction.
+- `InvoiceDate`: The date of the transaction.
+- `Price`: The unit price of each item.
+- `Customer ID`: A unique identifier for each customer.
+- `Country`: The country of the customer.
 
 Ensure that your dataset is cleaned, organized, and stored as `customer_data.csv` in the root directory of the project.
 
 ## 🛠️ Prerequisites 🛠️
 Before running the CRM analytics with RFM analysis code, you need to have the following set up:
 
-- **Python 3.x:** Make sure you have Python 3.x installed on your machine to execute the analysis code.
+- **Python 3.9:** Make sure you have Python 3.9 installed on your machine to execute the analysis code.
 - **Jupyter Notebook or JupyterLab:** You can use either Jupyter Notebook or JupyterLab to run the analysis code interactively.
 - **Required Python Packages:** Install the required Python packages by running `pip install -r requirements.txt` in your command-line terminal.
 
