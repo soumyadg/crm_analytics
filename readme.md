@@ -28,7 +28,7 @@ The dataset used for this analysis is assumed to be in a CSV format and should c
 - `Customer ID`: A unique identifier for each customer.
 - `Country`: The country of the customer.
 
-Ensure that your dataset is cleaned, organized, and stored as `customer_data.csv` in the root directory of the project.
+Ensure that your dataset is cleaned, organized, and stored as `retail_data.csv` in the root directory of the project.
 
 ## 🛠️ Prerequisites 🛠️
 Before running the CRM analytics with RFM analysis code, you need to have the following set up:
